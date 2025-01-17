@@ -1,8 +1,3 @@
-/*
- * Testbench für die Aufgabe 1.2 b) 
- * der ersten Abgabe in HWP2 
- */
-
 #include<iostream>
 #include"drohne.h"
 int main()
